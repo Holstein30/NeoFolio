@@ -21,6 +21,11 @@ body {
 
 :root {
   --blue-bg: #007bff;
+  --cyber-green: #00ff9f;
+  --cyber-lightBlue: #00b8ff;
+  --cyber-blue: #001eff;
+  --cyber-purple: #bd00ff;
+  --cyber-pink: #d600ff;
 }
 
 hr {
@@ -28,7 +33,7 @@ hr {
 }
 
 .list-item-2 i {
-  color: var(--blue-bg);
+  color: var(--cyber-blue);
 }
 
 /* Nav */
